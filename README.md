@@ -17,6 +17,6 @@ I analyzed 10,000 patient admissions (2021-2024) for WellLife General Hospital. 
 
 Automated Production Tracker
 ![image!](Project1 Oil Rigs Dashoard.png)
-
+![image!](Project1 Oil Rigs D.corel.png)
 I developed an automated variance analysis tracker to monitor rig locations against production targets. Investigation revealed that only one location consistently met goals, with training hours directly affecting output. My tracker automated reporting enabling weekly monitoring, better training allocation, and improved production across all sites. 
 {View Report Here}(https://www.linkedin.com/posts/john-ehiabhi-oboze-59189a123_dataanalytics-dashboardanalysis-operationalanalytics-activity-7454446019146117120-w7DL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB6Qr70B32_ZC4Y2BfMNuyqOd9-uhjLDlDs)
