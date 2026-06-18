@@ -32,6 +32,9 @@ I analyzed Bank churn Analysis with 10,000 Total Customers, 2,037 Exited Custome
 
 ## Contact Me
 [Email](obozejohn@gmail.com)
+
 [Phone](07062022778)
+
 [Connect with me on LinkedIn](www.linkedin.com/in/john-ehiabhi-oboze-59189a123)
+
 [Download my CV](John_Oboze_Data_Analyst_CV.pdf)
