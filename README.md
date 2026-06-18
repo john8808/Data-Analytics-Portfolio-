@@ -25,7 +25,7 @@ HR Employee Records Dasboard
 I analyzed 5,000 employees staff records (2015-2025) across branch locations for Sahara Tech Ltd. IT, Finance and Administrative, dominate in staffing level and driven operational structure. workforce have steady growth over the year and decline most recent year. Almost equal staffing level across branch locations, and less than 5 years tenure range most active acquisitions workforce. The Dasboard enable HR Manager monitor workforce growth and decline trend, and data-driven decision-making.[View Report Here](https://www.linkedin.com/posts/john-ehiabhi-oboze-59189a123_powerbi-dataanalytics-hranalytics-activity-7439172841583009792-Djvu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB6Qr70B32_ZC4Y2BfMNuyqOd9-uhjLDlDs)
 
 Bank Churn Analysis
-
+![image!](Project6 Bank Churn Dashboard.png)
 I analyzed Bank churn Analysis with 10,000 Total Customers, 2,037 Exited Customers, with 20.4% Churn Rate.[View Report Here](https://www.linkedin.com/posts/john-ehiabhi-oboze-59189a123_powerbi-dataanalytics-businessintelligence-activity-7464647907900592128-l6fy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB6Qr70B32_ZC4Y2BfMNuyqOd9-uhjLDlDs)
 
 ## Contact Me
