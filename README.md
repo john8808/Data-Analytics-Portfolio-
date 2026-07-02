@@ -5,7 +5,7 @@ Hello, I am John Ehiabhi Oboze, a Data Analyst and problem solver passionate abo
 ## Skills
 ## Data visualization & Reporting (Power BI, Excel and SQL)
 ![image!](Project3 Sales &Profit Dashboard.png)
-![image!](Project4 Sales Report Dashboard.png)
+![image!](sales dashboard.png)
 I build dashboards and reporting visuals that helps stakeholder make quicker and faster decisions. 
 [click here](https://www.linkedin.com/posts/john-ehiabhi-oboze-59189a123_dataanalytics-powerbi-excel-activity-7434185042467381252-mF06?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB6Qr70B32_ZC4Y2BfMNuyqOd9-uhjLDlDs) Data Analytics coaching session [click here](https://www.linkedin.com/posts/john-ehiabhi-oboze-59189a123_dataanalytics-datacommunity-mentorship-activity-7472616963547185152-bHoX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB6Qr70B32_ZC4Y2BfMNuyqOd9-uhjLDlDs)
 
