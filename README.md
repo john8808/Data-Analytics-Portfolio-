@@ -32,10 +32,10 @@ I analyzed 5,000 employees staff records (2015-2025) across branch locations for
 I analyzed Bank churn Analysis with 10,000 Total Customers, 2,037 Exited Customers, with 20.4% Churn Rate.[View Report Here](https://www.linkedin.com/posts/john-ehiabhi-oboze-59189a123_powerbi-dataanalytics-businessintelligence-activity-7464647907900592128-l6fy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB6Qr70B32_ZC4Y2BfMNuyqOd9-uhjLDlDs)
 
 ## Contact Me
-[Email](obozejohn@gmail.com)
+![Email](obozejohn@gmail.com)
 
-[Phone](07062022778)
+![Phone](07062022778)
 
-[Connect with me on LinkedIn](www.linkedin.com/in/john-ehiabhi-oboze-59189a123)
+![Connect with me on LinkedIn](www.linkedin.com/in/john-ehiabhi-oboze-59189a123)
 
-[Download my CV](JOHN_OBOZE_Data_Analyst_CV.pdf)
+![Download my CV](JOHN_OBOZE_Data_Analyst_CV.pdf)
