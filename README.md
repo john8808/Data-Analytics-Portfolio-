@@ -38,7 +38,7 @@ obozejohn@gmail.com
 
 [Phone](07062022778)
 
-+234 07062022778
+whatsapp: +234 07062022778
 
 [Connect with me on LinkedIn](www.linkedin.com/in/john-ehiabhi-oboze-59189a123)
 
