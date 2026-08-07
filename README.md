@@ -1,6 +1,6 @@
 # Data-Analytics-Portfolio
 ## About Me
-Hello, I am John Ehiabhi Oboze, a Data Analyst and problem solver passionate about helping businesses grow using Data and turning data into actionable insight for decision making. I am inspired and motivated into Senior Data Analyst role, and helping African businesses make smarter decisions. I have built data dashboards that increase team productivity and performance by a huge margin.
+Hello, I am John Ehiabhi Oboze, a Data Analyst and problem solver passionate about helping businesses grow using Data and turning data into actionable insight for decision making. I am inspired and motivated into Senior role of analytics, and helping African businesses make smarter decisions. I have built data dashboards that increase team productivity and performance by a huge margin.
 
 ## Skills
 ## Data visualization & Reporting (Power BI, Excel and SQL)
@@ -34,18 +34,10 @@ I analyzed Bank churn Analysis with 10,000 Total Customers, 2,037 Exited Custome
 ## Contact Me
 Let's connect and see how we can make difference together!
 
-[Email](obozejohn@gmail.com)
+[Email](obozejohn@gmail.com) obozejohn@gmail.com
 
-obozejohn@gmail.com
+[Phone](07062022778) whatsapp: +234 07062022778
 
-[Phone](07062022778)
+[Connect with me on LinkedIn](www.linkedin.com/in/john-ehiabhi-oboze-59189a123) [Click Here](www.linkedin.com/in/john-ehiabhi-oboze-59189a123)
 
-whatsapp: +234 07062022778
-
-[Connect with me on LinkedIn](www.linkedin.com/in/john-ehiabhi-oboze-59189a123)
-
-[Click Here](www.linkedin.com/in/john-ehiabhi-oboze-59189a123)
-
-[Download my CV](JOHN_OBOZE_Data_Analyst_CV.pdf)
-
-[Click Here to Download](JOHN_OBOZE_Data_Analyst_CV.pdf)
+[Download my CV](JOHN_OBOZE_Data_Analyst_CV.pdf) [Click Here to Download](JOHN_OBOZE_Data_Analyst_CV.pdf)
