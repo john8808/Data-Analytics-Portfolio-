@@ -33,6 +33,7 @@ I analyzed Bank churn Analysis with 10,000 Total Customers, 2,037 Exited Custome
 
 ## Contact Me
 Let's connect and see how we can make difference together!
+
 [Email](obozejohn@gmail.com)
 
 obozejohn@gmail.com
