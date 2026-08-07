@@ -43,6 +43,6 @@ Let's connect and see how we can make difference together!
 
 [Phone](07062022778) whatsapp: +234 07062022778
 
-[Connect with me on LinkedIn](www.linkedin.com/in/john-ehiabhi-oboze-59189a123) [Click Here](www.linkedin.com/in/john-ehiabhi-oboze-59189a123)
+[Connect with me on LinkedIn](www.linkedin.com/in/john-ehiabhi-oboze) [Click Here](www.linkedin.com/in/john-ehiabhi-oboze)
 
 [Download my CV](JOHN_OBOZE_Data_Analyst_CV.pdf) [Click Here to Download](JOHN_OBOZE_Data_Analyst_CV.pdf)
