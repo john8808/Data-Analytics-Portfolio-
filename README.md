@@ -48,4 +48,4 @@ Let's connect and see how we can make difference together!
 
 [Connect with me on LinkedIn](www.linkedin.com/in/john-ehiabhi-oboze) [Click Here](www.linkedin.com/in/john-ehiabhi-oboze)
 
-[Download my CV](JOHN_OBOZE_Data_Analyst_CV.pdf) [Click Here to Download](JOHN_OBOZE_Data_Analyst_CV.pdf)
+[Download my CV](John_Oboze_Senior_Data_Analyst_CV.pdf) [Click Here to Download](John_Oboze_Senior_Data_Analyst_CV.pdf)
