@@ -20,7 +20,7 @@ I analyzed 10,000 patient admissions (2021-2024) for WellLife General Hospital. 
 I developed an automated variance analysis tracker to monitor rig locations against production targets. Investigation revealed that only one location consistently met goals, with training hours directly affecting output. My tracker automated reporting enabling weekly monitoring, better training allocation, and improved production across all sites. 
 [View Report Here](https://www.linkedin.com/posts/john-ehiabhi-oboze-59189a123_dataanalytics-dashboardanalysis-operationalanalytics-activity-7454446019146117120-w7DL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB6Qr70B32_ZC4Y2BfMNuyqOd9-uhjLDlDs)
 
-## HR Employee Records Dasboard
+## HR Employee Records Dashboard
 
 ![image!](Project2 HR Dashboard.png)
 I analyzed 5,000 employees staff records (2015-2025) across branch locations for Sahara Tech Ltd. IT, Finance and Administrative, dominate in staffing level and driven operational structure. workforce have steady growth over the year and decline most recent year. Almost equal staffing level across branch locations, and less than 5 years tenure range most active acquisitions workforce. The Dasboard enable HR Manager monitor workforce growth and decline trend, and data-driven decision-making.[View Report Here](https://www.linkedin.com/posts/john-ehiabhi-oboze-59189a123_powerbi-dataanalytics-hranalytics-activity-7439172841583009792-Djvu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB6Qr70B32_ZC4Y2BfMNuyqOd9-uhjLDlDs)
@@ -34,6 +34,10 @@ I analyzed Bank churn Analysis with 10,000 Total Customers, 2,037 Exited Custome
 
 ![image!](Project8 SRV Team Automation Dashboard.png)
 I analyzed SRV Automation team performance with 216 Agents, 18 Team Leads, with target 1.59M, Delivered Achieved 2.30M, at 144.7% achievement rate. [View Report Here](https://www.linkedin.com/posts/john-ehiabhi-oboze-59189a123_dataanalytics-automationexcellence-teamperformance-activity-7468666777661579267-v4rj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB6Qr70B32_ZC4Y2BfMNuyqOd9-uhjLDlDs)
+
+## GlowMart Financial Analysis Dashboard
+![image!](Glowmart dashboard Screenshot 2026-09-07 005825.png)
+I analyzed GlowMart financial performance with 652.6M Total Revenue, 15K Total order per year, 45.1K Average order value, 500 Active customer, and 11.6% year over year. [view Report Here](https://www.linkedin.com/posts/john-ehiabhi-oboze_powerbi-dataanalytics-businessintelligence-share-7502608007747465216-UNfo/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB6Qr70B32_ZC4Y2BfMNuyqOd9-uhjLDlDs)
 
 ## Contact Me
 Let's connect and see how we can make difference together!
